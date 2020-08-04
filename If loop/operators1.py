@@ -1,7 +1,7 @@
 print("Basic arithamatics")
 num1 = float(input("Enter First number ="))
 num2 = float(input("Second number ="))
-print("Enter your desiered operation")
+print("Enter your deziered operation")
 ad = "Addition"
 sb = "Subtraction"
 ml = "Multiplication"
@@ -17,6 +17,6 @@ elif op == ml:
     result = num1*num2
     print(result)
 elif op == dv:
-    result = num1/num2
+    result = num1 / num2
     print(result)
 else:print("Invalid input")
