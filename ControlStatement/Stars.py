@@ -13,7 +13,7 @@ while row < num:
     row = row + 1
     print()
 else:
-    print("Star Finished")
+    print("\n\nStar Finished")
 
 
 
